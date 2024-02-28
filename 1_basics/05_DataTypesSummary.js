@@ -44,3 +44,27 @@ function myFunction(){
 
 
 
+
+
+
+
+
+// ****************************************************************************
+//Two types of memory 
+//Stack and heap
+//primitive types use stack memory
+//non-primitive types use heap memory
+
+
+let myName = "Rakshith"
+let myfirstName = myName
+myfirstName = "PV"
+
+
+
+let user1 = {
+    email: "rakshith@gmail.com",
+    pass: "12234"
+}
+
+console.log(user1.email);
