@@ -21,4 +21,6 @@ let state;
 //object 
 
 
-console.log(typeof name_of_me);
+console.log(typeof name_of_me); //string
+console.log(typeof age); //number
+console.log(typeof null); //object
